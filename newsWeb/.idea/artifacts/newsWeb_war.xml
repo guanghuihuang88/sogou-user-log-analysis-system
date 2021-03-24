@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="newsWeb:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/newsWeb</output-path>
+    <root id="archive" name="newsWeb_war.war">
+      <element id="artifact" artifact-name="newsWeb:war exploded" />
+    </root>
+  </artifact>
+</component>

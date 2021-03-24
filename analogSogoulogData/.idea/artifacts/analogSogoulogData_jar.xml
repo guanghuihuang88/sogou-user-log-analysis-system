@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="analogSogoulogData:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/analogSogoulogData_jar</output-path>
+    <root id="archive" name="analogSogoulogData.jar">
+      <element id="module-output" name="analogSogoulogData" />
+    </root>
+  </artifact>
+</component>
